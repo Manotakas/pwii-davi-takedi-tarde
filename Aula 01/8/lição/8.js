@@ -12,7 +12,7 @@ if (distanciaC>distanciaD){
 
 //Questão B
 
-Dmaximo = 12/(2*-0.5)
-Distancia = -0.5*Dmaximo^2+12*Dmaximo
+Dmaximo = 12/(2*0.5)
+Distancia = 0.5*Dmaximo^2+12*Dmaximo
 
 console.log("A distância máxima é:",Distancia)
